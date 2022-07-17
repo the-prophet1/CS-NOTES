@@ -1,6 +1,6 @@
-# 论文翻译
-翻译计算机相关的论文
+# 论文、文章翻译
+计算机相关的论文及文章
 
-## 论文目录
+## 论文、文章目录
 ### 分布式事务
 [Sagas](distributedTransaction/sagas/sagas.md)
